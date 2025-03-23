@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi there 👋
+- 📫 How to reach me: https://www.linkedin.com/in/shawnickwang/
+- ⚡ Fun fact: consistently building, learning, min 1% better each day
+
+Contributions (as a candlestick chart):
+
+<img width="500" alt="css" src="https://github.com/user-attachments/assets/cbfbb382-6f67-444c-a2ed-894af30b0294" />
 
 <!--
 **shawnixm/shawnixm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
