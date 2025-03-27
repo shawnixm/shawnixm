@@ -4,7 +4,7 @@
 
 Contributions (as a candlestick chart):
 
-<img width="500" alt="css" src="https://github.com/user-attachments/assets/cbfbb382-6f67-444c-a2ed-894af30b0294" />
+<img width="518" alt="css" src="https://github.com/user-attachments/assets/bc60ca49-05a7-43ee-9af0-0ec9b969cbd5" />
 
 <!--
 **shawnixm/shawnixm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
