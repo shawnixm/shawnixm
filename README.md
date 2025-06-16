@@ -2,10 +2,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/shawnickwang/
 - ⚡ Fun fact: consistently building, learning, min 1% better each day
 
-Contributions (as a candlestick chart):
-
-<img width="518" alt="css" src="https://github.com/user-attachments/assets/bc60ca49-05a7-43ee-9af0-0ec9b969cbd5" />
-
 <!--
 **shawnixm/shawnixm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
